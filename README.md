@@ -1,3 +1,3 @@
-# Workshop 2
+# Workshop-2
 
 The README file from clone 2
